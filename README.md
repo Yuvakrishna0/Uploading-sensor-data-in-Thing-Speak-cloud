@@ -117,10 +117,12 @@ void loop()
 ```
 
 # CIRCUIT DIAGRAM:
-![output](./POIexp4CD.png)
+![POIexp4CD](https://github.com/Yuvakrishna0/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117915037/9798f0ba-6f1e-434e-bfc8-7585802e543c)
+
 
 # OUTPUT:
-![output](./POIexp4OUT.png)
+![POIexp4OUT](https://github.com/Yuvakrishna0/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117915037/a78158ed-5fce-4ee5-8d01-a094b0bc60c1)
+
 
 # RESULT:
 Thus the distance of the obstacle was monitored using Ultrasonic sensor and the distance values are uploaded in the Thing speak using ESP32 controller.
